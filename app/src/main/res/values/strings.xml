@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaSalle_DDM1_Ex6_ToDoListv3</string>
+    <string name="title">Tasks</string>
+    <string name="addTask">Add Task</string>
+    <string name="create">Create a new Task</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
